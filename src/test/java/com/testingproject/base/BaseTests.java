@@ -1,4 +1,4 @@
-package com.testingproject.Tests.base;
+package com.testingproject.base;
 
 public class BaseTests {
     //COMMON TO ALL
